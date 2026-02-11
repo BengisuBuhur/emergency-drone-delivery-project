@@ -7,7 +7,7 @@ Designed and planned a drone-based emergency medical delivery system using Micro
 
 Key Highlights:
 Developed WBS and optimized Gantt schedule
-Performed resource allocation and cost control
+performed resource allocation and cost control
 applied risk management and earned value principles.
 
 Tools: Microsoft Project: Gantt Scheduling, Cost & Risk Analysis
