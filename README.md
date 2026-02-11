@@ -10,4 +10,4 @@ Developed WBS and optimized Gantt schedule
 performed resource allocation and cost control
 applied risk management and earned value principles.
 
-Tools: Microsoft Project: Gantt Scheduling, Cost & Risk Analysis
+Tools: Microsoft Project-Gantt Scheduling, Cost & Risk Analysis
